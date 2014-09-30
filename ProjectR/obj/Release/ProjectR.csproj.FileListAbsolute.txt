@@ -1,0 +1,4 @@
+D:\Amin\Projects\ProjectR\ProjectR\bin\ProjectR.dll
+D:\Amin\Projects\ProjectR\ProjectR\bin\ProjectR.pdb
+D:\Amin\Projects\ProjectR\ProjectR\obj\Release\ProjectR.dll
+D:\Amin\Projects\ProjectR\ProjectR\obj\Release\ProjectR.pdb
